@@ -103,3 +103,9 @@ Para este caso:
 El programa también será probado con otros valores, incluyendo datos inválidos y valores repetidos.
 
 ---
+
+# Analisis
+
+El problema nos pide crear un codigo que lea cuantas veces puedes crear un registro, esto mediante una funcion scanner. 
+
+El usuario digita el numero de veces que q se podra almacenar y el codigo debe crear un vector q almacene el numero n de registros, el sistema debe validar q el numero imgresado sea mayor a 0; despues se registra segun la velocidad de este.
