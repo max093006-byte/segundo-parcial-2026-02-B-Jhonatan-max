@@ -17,6 +17,7 @@ public class MonitorRed {
         int mayor200 = 0;
         int totalMediciones;
         int validarEntra;
+
     }
 
     

@@ -57,7 +57,6 @@ Construya un programa que almacene los tiempos en un arreglo y permita obtener l
 ---
 
 ## Funciones mínimas requeridas
-
 El programa debe tener, como mínimo, funciones independientes para:
 
 1. Leer y validar la cantidad de mediciones.
@@ -106,6 +105,7 @@ El programa también será probado con otros valores, incluyendo datos inválido
 
 # Analisis
 
-El problema nos pide crear un codigo que lea cuantas veces puedes crear un registro, esto mediante una funcion scanner. 
+El problema nos pide crear un codigo que lea cuantas veces puedes registrar el monitoreo del servidor, esto mediante una funcion scanner. 
 
-El usuario digita el numero de veces que q se podra almacenar y el codigo debe crear un vector q almacene el numero n de registros, el sistema debe validar q el numero imgresado sea mayor a 0; despues se registra segun la velocidad de este.
+El usuario digita el numero de veces que se podra almacenar y el codigo debe crear un vector q almacene el numero n de registros, el sistema debe validar q el numero imgresado sea mayor a 0; despues se registra segun la velocidad de este.
+
